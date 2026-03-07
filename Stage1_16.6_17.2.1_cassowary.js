@@ -149,7 +149,7 @@ async function q(t, e) {
     const l = 2;
     const h = 2;
     const m = {
-      zr: () => {},
+      cleanup: () => {},
       Qs: []
     };
     function y(t, e, n = null) {
@@ -899,7 +899,7 @@ async function q(t, e) {
         if (t[0] !== 57005) throw new Error("t[0] !== 57005");
         o("");
       },
-      zr: function () {
+      cleanup: function () {
         o("");
         for (let t = 0; t < pm.tmpOptArr.length; t++) pm.tmpOptArr[t] = null;
         pm.tmpOptArr = null;

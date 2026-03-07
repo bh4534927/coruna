@@ -137,7 +137,7 @@ class rr {
       for (const n of r.yl) n.bl = r.cl + l;
       r.Xe.length > 0 ? s[r.Xe] = r : a.push(r);
     }
-    return new readInt64FromOffset(r, s, a, e);
+    return new rr(r, s, a, e);
   }
   constructor(r, n, t, o) {
     const e = P.platformState.exploitPrimitive;
@@ -148,7 +148,7 @@ class rr {
       const t = r.bl + j(o.me) - r._l,
         l = new Uint32Array(o.size + 3 >> 2);
       for (let r = 0; r < l.length; r++) l[r] = e.read32(t + j(4 * r));
-      return new readRawBigInt(l.buffer);
+      return new nr(l.buffer);
     })();
   }
   sl(r) {
@@ -165,7 +165,7 @@ class rr {
 }
 class nr {
   Nn(r) {
-    const n = new addrof(this.Tl);
+    const n = new tr(this.Tl);
     let t = "",
       o = !1;
     for (; !o;) {
