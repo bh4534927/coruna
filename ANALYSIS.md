@@ -173,9 +173,9 @@ coruna-main/
     ├── 7a7d...payload              # Decrypted manifest (F00DBEEF with 19 download entries)
     ├── <hash>.bin                  # F00DBEEF container
     └── <hash>/                     # Extracted entries per container
-        ├── entry0_type0x08.dylib   # powerd implant?
+        ├── entry0_type0x08.dylib   # Kernel exploit runner -> powerd injector
         ├── entry1_type0x09.dylib   # Kernel exploit <- what jailbreak developers are most interested in
-        ├── entry2_type0x0f.dylib   # Persistence?
+        ├── entry2_type0x0f.dylib   # powerd implant
         ├── entry3_type0x07.bin
         └── ...
 ```
